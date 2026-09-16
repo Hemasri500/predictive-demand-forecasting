@@ -171,11 +171,11 @@ The Power BI report contains two pages.
 
 #### Demand Forecast
 
-![Demand Forecast Dashboard](images/demand_forecast_dashboard.png)
+![Demand Forecast Dashboard](images/Demand_Forecast_dashboard.png)
 
 #### Model Performance
 
-![Model Performance Dashboard](images/model_performance_dashboard.png)
+![Model Performance Dashboard](images/Model_Performance_dashboard.png)
 
 ### Demand Forecast
 
